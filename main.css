@@ -1,3 +1,20 @@
 body {
     background-color: darkgray;
 }
+
+.large {
+    font-size: 5em;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.bordered {
+ border: dashed yellowgreen;
+}
+
+.rounded{
+    border-radius: 6px;
+    border: solid black
+}
